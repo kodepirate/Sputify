@@ -48,5 +48,5 @@ Sputify is open-source and licensed under the MIT License. Feel free to use, mod
 ##Support 💖
 If you enjoy using Sputify, consider giving this repository a ⭐️ star ⭐️ to show your support!
 
-
+------
 Enjoy the music, and thanks for checking out Sputify! 🎧
