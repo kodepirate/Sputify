@@ -4,11 +4,16 @@ import { assets } from '../assets/assets'
 const Navbar = () => {
   return (
     <>
+<<<<<<< HEAD
     <div className='w-full flex justify-between items-center font-semibold'>
+=======
+      <div className='w-full flex justify-between items-center font-semibold'>
+>>>>>>> 12b7c70adca6dc55ace970fc159bf65192f1b36a
         <div className='flex items-center gap-2'>
             <img className='w-8 bg-black p-2 rounded-2xl cursor-pointer' src={assets.arrow_left} alt="" />
             <img className='w-8 bg-black p-2 rounded-2xl cursor-pointer' src={assets.arrow_right} alt="" />
         </div>
+<<<<<<< HEAD
         <div className='flex items-center gap-4'>
             <p className='bg-white text-black text-[15px] px-4 py-1 rounded-2xl hidden md:block cursor-pointer'>
                 Explore Premium
@@ -24,6 +29,9 @@ const Navbar = () => {
         <p className='bg-black px-4 py-1 rounded-2xl cursor-pointer'>Music</p>
         <p className='bg-black px-4 py-1 rounded-2xl cursor-pointer'>Podcast</p>
     </div>
+=======
+      </div>
+>>>>>>> 12b7c70adca6dc55ace970fc159bf65192f1b36a
     </>
   )
 }
