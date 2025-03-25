@@ -3,6 +3,8 @@
 Welcome to **Sputify**, the ultimate music streaming experience! Sputify is a clone of Spotify, but with enhanced features, a sleek design, and a user-friendly interface that makes it even better than the original. Whether you're here to discover new music, create playlists, or enjoy your favorite tunes, Sputify has got you covered.
 
 ---
+![Uploading image.png…]()
+
 
 ## Features ✨
 
