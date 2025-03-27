@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import { Route, Routes, useLocation  } from 'react-router-dom'
 import DisplayHome from './Displayhome'
 import DisplayAlbum from './DisplayAlbum'
+
 import { albumsData } from '../assets/assets'
 
 
